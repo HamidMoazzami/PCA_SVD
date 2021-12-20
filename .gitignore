@@ -1,0 +1,5 @@
+# Ignore visual Studio Configuration folder 
+.vscode/
+# Ignore compiled object files and executable 
+*.o
+*.exe 
